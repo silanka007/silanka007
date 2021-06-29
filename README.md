@@ -1,12 +1,3 @@
-<h2> Hey there! I'm Paul.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; W.
-- 🌱 &nbsp; Learning more about 
-
-
 <!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2> -->
 
 ## 👋 &nbsp;Hey there! I'm Paul
@@ -21,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at silanka007@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Checkout my [portfolio website](https://paulonyekwelu.com) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Tech Stack
 
