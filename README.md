@@ -44,7 +44,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://paulonyekwelu.com"><img src="https://img.shields.io/badge/-paulonyekwelu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/paulonyekwelu/"><img src="https://img.shields.io/badge/-Paul%20Onyekwelu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/rx_silanka"><img src="https://img.shields.io/twitter/url?label=Rx_Silanka&style=social&url=https%3A%2F%2Ftwitter.com%2Frx_silanka"/></a>
