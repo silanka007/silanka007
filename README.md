@@ -57,5 +57,5 @@
 </p>
 <p align="left"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/Ezike/count.svg" />
+  <img src="https://profile-counter.glitch.me/silanka007/count.svg" />
 </p>
