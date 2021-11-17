@@ -56,6 +56,6 @@
 <a href="https://www.behance.net/username"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
 <p align="left"> 
-  <b>Visitor count</b><br>
+  <b>Visitors count</b><br>
   <img src="https://profile-counter.glitch.me/silanka007/count.svg" />
 </p>
